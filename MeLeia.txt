@@ -1,5 +1,5 @@
-Olá Tutor! Tudo bem?
+Olá!
 
-Eu não tenho mais os arquivos das etapas passadas, então eu comecei um novo projeto do zero.
+Este Commit possui o arquivo atualizado até a Etapa 07 do projeto integrador.
 
-Ass: Yuri Antonio de Souza
+Ass.: Yuri Antonio de Souza
